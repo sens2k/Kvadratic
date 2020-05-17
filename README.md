@@ -1,0 +1,2 @@
+# Kvadratik
+First python program  
